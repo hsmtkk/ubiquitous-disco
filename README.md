@@ -1,2 +1,1 @@
-# ubiquitous-disco
-Rust pixiv download Selenium
+Both selenium-rs and thirtyfour did not work well

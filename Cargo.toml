@@ -8,4 +8,6 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.41"
-selenium-rs = "0.1.2"
+#selenium-rs = "0.1.2"
+thirtyfour = "0.25.1"
+tokio = "1.7.1"
